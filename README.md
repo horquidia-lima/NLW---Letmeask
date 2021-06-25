@@ -22,5 +22,7 @@ Letmeask es una aplicación de interacción a través de preguntas, siendo posib
 
 ## 🔖 Layout
 
-Puede ver el diseño del proyecto a través de [este enlace] (https://www.figma.com/file/tQh7S0zckT577edTkekDbn/Letmeask-(Copy)?node-id=45%3A3279). Debe tener una cuenta en [Figma] (https://figma.com) para acceder a ella.
-Hecho con ♥ por Rocketseat
+Puede ver el diseño del proyecto a través de [este enlace] (https://www.figma.com/file/tQh7S0zckT577edTkekDbn/Letmeask-(Copy)?node-id=45%3A3279).
+Debe tener una cuenta en [Figma] (https://figma.com) para acceder a ella.
+
+## Hecho con ♥ por Rocketseat
