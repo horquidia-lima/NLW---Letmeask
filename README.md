@@ -1,4 +1,4 @@
-# NLW -Letmeask
+# NLW - Letmeask
 Desarrollado en la semana NLW - Rocketseat
 
 ![image](https://user-images.githubusercontent.com/63380921/123459492-b7d9bc00-d5bc-11eb-86ff-de82bf104c4b.png)
@@ -11,7 +11,7 @@ Este proyecto fue desarrollado con las siguientes tecnologías:
 - HTML
 - CSS
 - SASS
-- JavaScript
+- TypeScript
 - React JS
 - Firebase
 
